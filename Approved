@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Approved</title>
+  <style>
+    body{
+      margin:0;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      height:100vh;
+      background:#1a1a1a;
+      color:#00ff66;
+      font-family:Arial,sans-serif;
+      font-size:70px;
+      font-weight:bold;
+    }
+  </style>
+</head>
+<body>
+APPROVED ✅
+</body>
+</html>
